@@ -97,7 +97,6 @@ const countryTranslations = {
   hu: "Hungary",
   id: "Indonesia",
   ie: "Ireland",
-  il: "Israel",
   im: "Isle of Man",
   in: "India",
   io: "British Indian Ocean Territory",

@@ -100,7 +100,6 @@ const countryTranslations: I18n = {
   hu: "헝가리",
   id: "인도네시아",
   ie: "아일랜드",
-  il: "이스라엘",
   im: "맨 섬",
   in: "인도",
   io: "영국령 인도양 식민지",

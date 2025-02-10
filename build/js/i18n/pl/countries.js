@@ -97,7 +97,6 @@ const countryTranslations = {
   hu: "Węgry",
   id: "Indonezja",
   ie: "Irlandia",
-  il: "Izrael",
   im: "Wyspa Man",
   in: "Indie",
   io: "Brytyjskie Terytorium Oceanu Indyjskiego",

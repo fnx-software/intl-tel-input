@@ -100,7 +100,6 @@ const countryTranslations: I18n = {
   hu: "Macaristan",
   id: "Endonezya",
   ie: "İrlanda",
-  il: "İsrail",
   im: "Man Adası",
   in: "Hindistan",
   io: "Britanya Hint Okyanusu Toprakları",

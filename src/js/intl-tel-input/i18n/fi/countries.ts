@@ -100,7 +100,6 @@ const countryTranslations: I18n = {
   hu: "Unkari",
   id: "Indonesia",
   ie: "Irlanti",
-  il: "Israel",
   im: "Mansaari",
   in: "Intia",
   io: "Brittiläinen Intian valtameren alue",
