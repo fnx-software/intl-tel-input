@@ -175,7 +175,7 @@ const countryTranslations = {
   pl: "Polska",
   pm: "Saint-Pierre i Miquelon",
   pr: "Portoryko",
-  ps: "Terytoria Palestyńskie",
+  ps: "Palestyńskie",
   pt: "Portugalia",
   pw: "Palau",
   py: "Paragwaj",

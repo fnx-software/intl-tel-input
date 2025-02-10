@@ -178,7 +178,7 @@ const countryTranslations: I18n = {
   pl: "Ba Lan",
   pm: "Saint Pierre và Miquelon",
   pr: "Puerto Rico",
-  ps: "Lãnh thổ Palestine",
+  ps: "Palestine",
   pt: "Bồ Đào Nha",
   pw: "Palau",
   py: "Paraguay",

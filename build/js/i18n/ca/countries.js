@@ -175,7 +175,7 @@ const countryTranslations = {
   pl: "Polònia",
   pm: "Saint-Pierre-et-Miquelon",
   pr: "Puerto Rico",
-  ps: "Territoris palestins",
+  ps: "Territoris",
   pt: "Portugal",
   pw: "Palau",
   py: "Paraguai",

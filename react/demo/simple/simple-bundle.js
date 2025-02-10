@@ -25104,7 +25104,7 @@
     pl: "Poland",
     pm: "St. Pierre & Miquelon",
     pr: "Puerto Rico",
-    ps: "Palestinian Territories",
+    ps: "Palestinian",
     pt: "Portugal",
     pw: "Palau",
     py: "Paraguay",

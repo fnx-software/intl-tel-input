@@ -178,7 +178,7 @@ const countryTranslations: I18n = {
   pl: "폴란드",
   pm: "생피에르 미클롱",
   pr: "푸에르토리코",
-  ps: "팔레스타인 지구",
+  ps: "팔레스타인",
   pt: "포르투갈",
   pw: "팔라우",
   py: "파라과이",

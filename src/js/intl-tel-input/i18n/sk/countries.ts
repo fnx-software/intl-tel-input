@@ -178,7 +178,7 @@ const countryTranslations: I18n = {
   pl: "Poľsko",
   pm: "Saint Pierre a Miquelon",
   pr: "Portoriko",
-  ps: "Palestínske územia",
+  ps: "Palestínske",
   pt: "Portugalsko",
   pw: "Palau",
   py: "Paraguaj",
